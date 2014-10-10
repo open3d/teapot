@@ -1,0 +1,13 @@
+{
+    "name": "Utah Teapot",
+    "commercial": true,
+    "author": [
+        "Martin Newell"
+    ],
+    "modified": [
+        "Jim Blinn",
+        "Kenzie Lamar",
+        "Ivan Malopinsky"
+    ],
+    "source": "http://graphics.cs.williams.edu/data/meshes.xml"
+}
